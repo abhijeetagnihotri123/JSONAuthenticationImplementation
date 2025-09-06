@@ -1,10 +1,10 @@
-package com.ODIN.HUMVEE;
+package com.ODIN.HUMMVEE;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HumveeApplicationTests {
+class HummveeApplicationTests {
 
 	@Test
 	void contextLoads() {
